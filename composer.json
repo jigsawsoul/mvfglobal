@@ -1,0 +1,20 @@
+{
+    "name": "jigsawsoul/mvfglobal",
+    "description": "Fullstack developer tech test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVFGlobal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jigsawsoul",
+            "email": "richardclivehowse@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0",
+        "eftec/bladeone": "^4.6"
+    }
+}
